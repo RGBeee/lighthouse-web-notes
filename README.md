@@ -10,3 +10,7 @@ The use of [Reid's](https://web.compass.lighthouselabs.ca/22859b64-6a34-402a-96b
 
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
+
+
+
+  [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
