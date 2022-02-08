@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository is a practice session in the use of GIT. 
+The use of this file is intended for practice in the use of GIT. 
